@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "/home/ise/CSE_450_Xilinx/CSE450_M/full_adder_tb_isim_beh.exe" -prj "/home/ise/CSE_450_Xilinx/CSE450_M/full_adder_tb_beh.prj" "work.full_adder_tb" 
