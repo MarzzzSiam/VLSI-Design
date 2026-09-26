@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "/home/ise/CSE_450_Xilinx/CSE450_M/tb_register_8bit_isim_beh.exe" -prj "/home/ise/CSE_450_Xilinx/CSE450_M/tb_register_8bit_beh.prj" "work.tb_register_8bit" 

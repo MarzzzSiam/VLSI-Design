@@ -1,0 +1,28 @@
+Command line:
+   tb_master_slave_ff_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  45107
+
+Sat Sep 26 16:52:58 2026
+
+
+ Elaboration Time: 0.03 sec
+
+ Current Memory Usage: 198.615 Meg
+
+ Total Signals          : 71
+ Total Nets             : 17
+ Total Signal Drivers   : 17
+ Total Blocks           : 19
+ Total Primitive Blocks : 11
+ Total Processes        : 17
+ Total Traceable Variables  : 8
+ Total Scalar Nets and Variables : 377
+
+ Total Simulation Time: 0.04 sec
+
+ Current Memory Usage: 276.214 Meg
+
+Sat Sep 26 16:55:49 2026
+
