@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/ise/CSE_450_Xilinx/CSE450_M/and_gate.xst" -ofn "/home/ise/CSE_450_Xilinx/CSE450_M/and_gate.syr" 
