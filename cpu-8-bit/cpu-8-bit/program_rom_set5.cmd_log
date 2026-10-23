@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "/home/ise/CSE_450_Xilinx/CSE450_M/program_rom_set5.xst" -ofn "/home/ise/CSE_450_Xilinx/CSE450_M/program_rom_set5.syr" 
+xst -intstyle ise -ifn "/home/ise/CSE_450_Xilinx/CSE450_M/program_rom_set5.xst" -ofn "/home/ise/CSE_450_Xilinx/CSE450_M/program_rom_set5.syr" 

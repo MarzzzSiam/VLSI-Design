@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "/home/ise/CSE_450_Xilinx/CSE450_M/control_unit.xst" -ofn "/home/ise/CSE_450_Xilinx/CSE450_M/control_unit.syr" 
+xst -intstyle ise -ifn "/home/ise/CSE_450_Xilinx/CSE450_M/control_unit.xst" -ofn "/home/ise/CSE_450_Xilinx/CSE450_M/control_unit.syr" 
